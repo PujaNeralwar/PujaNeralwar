@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=knowtoit&show_icons=true&locale=en&layout=compact" alt="knowtoit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=knowtoit&show_icons=true&locale=en" alt="knowtoit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PujaNeralwar&show_icons=true&locale=en" alt="knowtoit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=knowtoit&" alt="knowtoit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PujaNeralwar&" alt="knowtoit" /></p>
 
